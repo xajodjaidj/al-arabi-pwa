@@ -1,0 +1,17 @@
+{
+  "short_name": "ȧلعربي",
+  "name": "العربي - ناضم إفداره الموطفين",
+  "icons": [
+    {
+      "src": "https://app.zaro.ai/api/console/workspaces/oss/read?workspace_id=bcac0bc3-79be-467d-8814-edc1d77dfa74&object_id=public-af6fb64d-b33b-48ca-bf1e-99531f90d9fa",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#F8FAFC",
+  "theme_color": "#0A4B9F",
+  "display": "standalone",
+  "orientation": "portrait"
+}
